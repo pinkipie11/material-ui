@@ -1,4 +1,4 @@
-# material-ui
+# MUI 5
  
 React - MUI 5 project from Lama Dev yt channel.
 
